@@ -1,0 +1,2 @@
+# taryfikator
+taryfikator jako strona 
